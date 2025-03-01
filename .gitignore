@@ -1,0 +1,5 @@
+# Ignore virtual environment
+venv/
+
+# Ignore specific CSV file
+data/training_extra.csv
